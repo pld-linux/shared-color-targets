@@ -1,12 +1,12 @@
 Summary:	Color targets from vendors for color calibration
 Summary(pl.UTF-8):	Dane kolorów urządzeń na potrzeby kalibracji kolorów
 Name:		shared-color-targets
-Version:	0.1.5
+Version:	0.1.6
 Release:	1
 License:	CC-BY-SA v3.0
 Group:		Libraries
 Source0:	http://people.freedesktop.org/~hughsient/releases/%{name}-%{version}.tar.xz
-# Source0-md5:	51feef5137853e84d3ba679b290aa5f5
+# Source0-md5:	96717436448c85477acded66a28c30c7
 URL:		http://github.com/hughsie/shared-color-targets
 BuildRequires:	tar >= 1:1.22
 BuildRequires:	xz
